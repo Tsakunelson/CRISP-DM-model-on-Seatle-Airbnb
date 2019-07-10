@@ -19,7 +19,7 @@ Using the Cross-Industry Standard Process of Data Mining (CRISP-DM) the Seatle A
 - Provide a competitive market price for a newly added Airbnb listing given its attributes?
 
 
-3.File Descriptions - Guide others through the files in your repository. You may not talk about every file here, but you should let them know where they can find the work they might find most interesting.
+3.File Descriptions
 
 This repository consists of:
 - A Descriptive Jupyter Notebook
